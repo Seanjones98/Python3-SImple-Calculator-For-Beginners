@@ -9,7 +9,7 @@ num02 = input("Enter Second Number ")
 
 if Operator == '*' :
     print("\n")
-    print(int(+ num01)*int(num02))
+    print(int(num01)*int(num02))
 
 elif Operator == '-':
     print("\n")
